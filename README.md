@@ -1,2 +1,2 @@
-#CSAPP_program
-本仓库记录了学习CSAPP过程中的一些练习程序。
+# CSAPP_program
+本仓库记录了本人在学习CSAPP过程中所编写的程序。
